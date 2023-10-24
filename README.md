@@ -1,2 +1,2 @@
 # satellite-tracker
-Tracking artifical mega-constellations (like Starlink) using their TLE sets.
+Simple tracker for artifical mega-constellations (like Starlink) using their TLEs.
